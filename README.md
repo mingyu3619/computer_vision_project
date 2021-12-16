@@ -27,16 +27,20 @@ Here are some ideas to get you started:
 colab을 통해 키워드 '마스크'와 키워드 '얼굴'을 통해 마스크를 쓴 사람과 안쓴 사람의 이미지 수집.
 
 # 실험 
+
 cnn에 모델의 epoch에 따른 성능
+
 ![image](https://user-images.githubusercontent.com/86222639/146324198-5535e33a-1c77-4cee-b667-4f889242287f.png)
 
 Resnet50의 사전에 설정된 weights 여부에 따른 성능
-![image](https://user-images.githubusercontent.com/86222639/146324246-d5d9324d-38f5-4d37-aedb-7a335f86a245.png)
 
+![image](https://user-images.githubusercontent.com/86222639/146324246-d5d9324d-38f5-4d37-aedb-7a335f86a245.png)
 
 --> resnet50은 overffiting된 모습이다.
 
 # 결과
-성능이 더 우수한 커프텀 cnn을 이용해 마스크 인식 여부 
+실험결과를 토대로 성능이 더 우수한 커스텀 cnn을 이용해 마스크 인식 여부 예측
+
 label / 예측
+
 ![image](https://user-images.githubusercontent.com/86222639/146322810-9e22b061-1678-4e41-ab97-fc95db9218fd.png)
