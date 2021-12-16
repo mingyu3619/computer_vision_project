@@ -27,14 +27,12 @@ Here are some ideas to get you started:
 colab을 통해 키워드 '마스크'와 키워드 '얼굴'을 통해 마스크를 쓴 사람과 안쓴 사람의 이미지 수집.
 
 # 실험 
-cnn에 모델의 epoch에 따란 성능
-![image](https://user-images.githubusercontent.com/86222639/146323343-8b534697-89d9-42be-a7e8-9520ac18c2e9.png)
+cnn에 모델의 epoch에 따른 성능
+![image](https://user-images.githubusercontent.com/86222639/146324198-5535e33a-1c77-4cee-b667-4f889242287f.png)
 
 Resnet50의 사전에 설정된 weights 여부에 따른 성능
-![image](https://user-images.githubusercontent.com/86222639/146323504-85f9464e-8367-4abd-9e5d-8cd150e5285f.png)
+![image](https://user-images.githubusercontent.com/86222639/146324246-d5d9324d-38f5-4d37-aedb-7a335f86a245.png)
 
-![image](https://user-images.githubusercontent.com/86222639/146323892-742a5384-f887-4b72-82ea-3e745e7aff78.png)
-![image](https://user-images.githubusercontent.com/86222639/146323900-6bcfe99e-a700-4819-84f2-46392c795863.png)
 
 --> resnet50은 overffiting된 모습이다.
 
